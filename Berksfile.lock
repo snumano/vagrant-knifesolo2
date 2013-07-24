@@ -1,0 +1,43 @@
+{
+  "sources": {
+    "apt": {
+      "locked_version": "1.9.0"
+    },
+    "mysql": {
+      "locked_version": "3.0.2"
+    },
+    "nginx": {
+      "locked_version": "1.7.0"
+    },
+    "database": {
+      "locked_version": "1.4.0"
+    },
+    "myapp": {
+      "path": "./site-cookbooks/myapp"
+    },
+    "openssl": {
+      "locked_version": "1.0.2"
+    },
+    "build-essential": {
+      "locked_version": "1.4.0"
+    },
+    "yum": {
+      "locked_version": "2.3.0"
+    },
+    "runit": {
+      "locked_version": "1.1.6"
+    },
+    "ohai": {
+      "locked_version": "1.1.10"
+    },
+    "postgresql": {
+      "locked_version": "3.0.2"
+    },
+    "aws": {
+      "locked_version": "0.101.2"
+    },
+    "xfs": {
+      "locked_version": "1.1.0"
+    }
+  }
+}
